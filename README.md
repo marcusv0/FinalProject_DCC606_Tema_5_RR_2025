@@ -1,4 +1,4 @@
-# 🧠 Projeto: Detecção de Cliques em Grafos Sociais
+# 🧠 Projeto: Problema do Clique
 
 Este projeto tem como objetivo detectar **cliques** em grafos representando redes sociais, utilizando um **algoritmo guloso** implementado em linguagem C. O foco principal é a identificação de grupos densamente conectados entre usuários do Twitter, além da comparação experimental com o benchmark clássico **Zachary's Karate Club**.
 
