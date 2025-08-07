@@ -48,7 +48,7 @@ O algoritmo foi testado com:
 Métricas como tempo de execução, número de cliques e tamanho máximo foram registradas e estão no relatório final.
 
 ### 📑 Relatório
-O relatório completo com análise do artigo, justificativas do algoritmo e resultados está disponível no arquivo Relatorio.pdf.
+O relatório completo com análise do artigo, justificativas do algoritmo e resultados está disponível no arquivo Relatorio.docx.
 
 ---
 ## 👨‍💻 Autores
